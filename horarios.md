@@ -14,7 +14,7 @@ headerimage: header_parque.png
 | _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |        |           |  8:30  |         |        |
 | _Daniela_<br/>Espacio Sadhana<br/>Balcarce 64 bis                   |       |  9:30  |           |        |         |        |
 | _Sebastián_<br/>Parque España<br/>Mitre y el Río                    |       | 19:00  |           | 19:00  |         |        |
-| _Julián_<br/>Aki Sala Cultural<br/>Sarmiento 1232 PA<br/>WA:5493415209007|  |        |  19:00    |        |         |        |
+| _Julián_<br/>Aki Sala Cultural<br/>Sarmiento 1232 PA<br/>[WhatsApp (54 9341 5209007)](https://wa.me/5493415209007)|  |        |  19:00    |        |         |        |
 | _Jorge_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero |       |        |           |        |         |  9:00  |
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 
