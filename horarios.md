@@ -10,8 +10,8 @@ headerimage: header_parque.png
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Instructor<br/>Lugar<br/>Dirección                                  | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |---------------------------------------------------------------------|:-----:|:------:|:---------:|:------:|:-------:|:------:|
-| _Gabriel_<br/>Parque Sunchales<br/>Alvear y el Río                  | 18:30 |        |  18:30    |        |  18:30  |        |
-| _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |        |           |  8:30  |         |        |
+| _Gabriel_<br/>Parque Sunchales<br/>Alvear y el Río                  |       |        |           |        |  19:00  |        |
+| _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  8:30  |           |  8:30  |         |        |
 | _Daniela_<br/>Espacio Sadhana<br/>Balcarce 64 bis                   |       |  9:30  |           |        |         |        |
 | _Sebastián_<br/>Parque España<br/>Mitre y el Río                    |       | 19:00  |           | 19:00  |         |        |
 | _Julián_<br/>Aki Sala Cultural<br/>Sarmiento 1232 PA<br/>[WhatsApp (54 9341 5209007)](https://wa.me/5493415209007)|  |        |  19:00    |        |         |        |
