@@ -7,7 +7,9 @@ headerimage: header_parque.png
 ---
 ###### Lista actualizada el {{ site.time | date: '%d/%m/%Y' }}
 
-|----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
+En este momento estamos en receso invernal y no tenemos clases abiertas.
+
+<!-- |----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Instructor<br/>Lugar<br/>Dirección                                   | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |----------------------------------------------------------------------|:-----:|:------:|:---------:|:------:|:-------:|:------:|
 | _Gabriel_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero|  9:00 |        |     9:00  |        |         |  9:00  |
@@ -15,7 +17,7 @@ headerimage: header_parque.png
 | _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                  |       |        |     9:00  |        |         |        |
 | _Vladimir_<br/>Parque Santos Dumont<br/>                             |  9:00 |        |           |        |         |        |
 |----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
-
+ -->
 ----
 
 Por consultas por favor comunicarse a través de mensajes en nuestra página de Facebook: <https://m.me/EscuelaGrullaBlanca/>
