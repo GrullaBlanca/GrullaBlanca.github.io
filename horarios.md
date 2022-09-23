@@ -17,7 +17,7 @@ headerimage: header_parque.png
 | _Sebastián y Julia_<br/>Espacio Sadhana<br/>Balcarce 64 bis          |       |  19:45 |           |  19:45 |         |        |
 | _Sebastián y Julia_<br/>Parque Sunchales<br/>Alvear y el Río         |       |        |           |        |  18:30  |        |
 | _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                  |       |        |     9:30  |        |         |        |
-| _Vladimir_<br/>Centro Cultural Fisherton<br/>                        |       |        |           |        |   9:30  |        |
+| _Vladimir_<br/>Centro Cultural Fisherton<br/><b>* por inaugurarse, consultar</b> |       |        |           |        |   9:30  |        |
 | _Soledad_<br/>AMR<br/>España 1034                                    |       |  9:30  |           |  9:30  |         |        |
 | _Soledad_<br/>COAD<br/>Tucumán 2254                                  |       |        |           |        |   9:00  |        |
 |----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
