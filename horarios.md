@@ -16,8 +16,8 @@ headerimage: header_parque.png
 | _Gabriel_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero|  9:00 |        |     9:00  |        |         |  9:00  |
 | _Gabriel_<br/>Sala Italia<br/>Roldán                                 | 16:00 |        |           |  16:00 |         |        |
 | _Sebastián y Julia_<br/>Espacio Sadhana<br/>Balcarce 64 bis          |       |  19:45 |           |  19:45 |         |        |
-| _Sebastián y Julia_<br/>Parque Sunchales<br/>Alvear y el Río         |       |        |           |        |  18:30  |        |
-| _Vladimir_<br/>Centro Cultural Fisherton                             |       |        |           |        |   9:30  |        |
+| _Sebastián y Julia_<br/>Parque Sunchales<br/>Alvear y el Río         |       |        |           |        |  19:00  |        |
+| _Vladimir_<br/>Centro Cultural Fisherton                             |       |        |    10:00  |        |         |        |
 | _Soledad_<br/>AMR<br/>España 1034                                    |       |  9:30  |           |  9:30  |         |        |
 | _Soledad_<br/>COAD<br/>Tucumán 2254                                  |       |        |           |        |   9:00  |        |
 |----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
