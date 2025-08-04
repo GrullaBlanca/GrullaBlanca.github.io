@@ -14,6 +14,7 @@ headerimage: header_parque.png
 | Instructor<br/>Lugar<br/>Dirección                                   | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |----------------------------------------------------------------------|:-----:|:------:|:---------:|:------:|:-------:|:------:|
 | _Gabriel_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero|  9:00 |        |     9:00  |        |         |  9:00  |
+| _Gabriel_<br/>Plataforma Lavarden<br/>Mendoza 1085                  |       |  9:30 |           |  9:30  |         |        |
 | _Sebastián y Julia_<br/>Espacio Sadhana<br/>Balcarce 64 bis          |       |  19:45 |           |  19:45 |  19:30  |        |
 | _Soledad_<br/>AMR<br/>España 1034                                    |       |  9:30  |           |  9:30  |         |        |
 | _Soledad_<br/>COAD<br/>La casa del estudiante - Tucumán 2359         |       |        |           |        |   9:00  |        |
