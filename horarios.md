@@ -18,7 +18,7 @@ headerimage: header_parque.png
 | _Sebastián y Julia_<br/>Espacio Sadhana<br/>Balcarce 64 bis          |       |  19:45 |           |  19:45 |  19:30  |        |
 | _Soledad_<br/>AMR<br/>España 1034                                    |       |  9:30  |           |  9:30  |         |        |
 | _Soledad_<br/>COAD<br/>La casa del estudiante - Tucumán 2359         |       |        |           |        |   9:00  |        |
-| _Jorge_<br/>Parque Urquiza<br/>Av. Diario La Capital y 9 de Julio (donde el reloj) |       |  18:00 |           |  18:00 |         |        |
+| _Jorge_<br/>Centro de Jubilados y Pensionados de la Caja de Ingeniería de Prov. Santa Fe<br/>Maipú 1239 |       |  18:00 |           |        |  17:00  |        |
 | _Julián_<br/>Soñarte<br/>Bv. Tierra de Sueños 3323, Roldán |       |  20:00 |           |  20:00 |         |        |
 | _Vladimir_<br/>Biblioteca Popular Gaston Gori<br/>Juan José Paso 7990 |       |        |  10:00  |        |         |        |
 |----------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
