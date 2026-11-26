@@ -1,0 +1,15 @@
+[tools]
+ruby = "3.3.4"
+"gem:bundler" = "latest"
+
+[tasks.setup]
+description = "Install local gem dependencies"
+run = "bundle install"
+
+[tasks.build]
+description = "Build the site locally"
+run = "bundle exec jekyll build"
+
+[tasks.serve]
+description = "Run the local Jekyll server"
+run = "bundle exec jekyll serve"
